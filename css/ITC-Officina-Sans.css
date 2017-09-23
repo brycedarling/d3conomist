@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'ITC Officina Sans';
+  font-style: normal;
+  font-weight: bold;
+  src: url('../fonts/OfficinaSansLT-Bold.eot');
+  src: url('../fonts/OfficinaSansLT-Bold.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/OfficinaSansLT-Bold.woff') format('woff'),
+       url('../fonts/OfficinaSansLT-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ITC Officina Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/OfficinaSansLT-Book.eot');
+  src: url('../fonts/OfficinaSansLT-Book.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/OfficinaSansLT-Book.woff') format('woff'),
+       url('../fonts/OfficinaSansLT-Book.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ITC Officina Sans';
+  font-style: italic;
+  font-weight: normal;
+  src: url('../fonts/OfficinaSansLT-BookItalic.eot');
+  src: url('../fonts/OfficinaSansLT-BookItalic.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/OfficinaSansLT-BookItalic.woff') format('woff'),
+       url('../fonts/OfficinaSansLT-BookItalic.ttf') format('truetype');
+}
